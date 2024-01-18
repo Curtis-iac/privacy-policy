@@ -7,6 +7,7 @@ function Home() {
   return (
     <div>
     <PrivacyPolicyScreen />
+  
         <Link to="/privacy-policy" className="App-link">
       .
         </Link>
